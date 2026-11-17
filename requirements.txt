@@ -1,0 +1,2 @@
+pytest>=8.0
+# opcional: openai>=1.30
